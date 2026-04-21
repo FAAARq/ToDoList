@@ -2,6 +2,8 @@
 
 A simple To-Do List web application built with Django.
 
+![Screenshot](images/img.png)
+
 ## Features
 - Add tasks
 - Delete tasks
